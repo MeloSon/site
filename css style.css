@@ -1,0 +1,79 @@
+body
+{
+	background:url("logo makina.png") fixed no-repeat top right, url("Fond site web.png")fixed ;
+	margin: 0px;
+}
+
+h1
+{
+	color: rgb(60, 23, 63);
+	font-family: "URW Chancery L";
+	margin: 170px;
+}
+
+nav
+{
+	float: left;
+	width: 150px;
+	background: url("Bannière nav.png");
+}
+
+section
+{
+	margin: 170px
+	float; right: 
+}
+
+#jeux
+{
+	color: red;
+	border: red inset;
+}
+
+#let
+{
+	color: green;
+	border: green inset;
+}
+
+#tech
+{
+	color: blue;
+	border: blue inset
+}
+
+#app
+{
+	color: purple;
+	border: purple inset;
+}
+
+header
+{
+	width: 100%;
+	height: 90px;
+}
+
+p
+{
+	color: rgb(130, 1, 112);
+	font-family: "Noto Sans CJK JP Black";
+	margin: 170px;
+}
+
+td
+{
+	border: 2px solid rgb(145, 7, 7);
+}
+
+table
+{
+	border-collapse: separate;
+}
+
+#p1
+{
+    color: rgb(130, 1, 112);
+	font-family: "Noto Sans CJK JP Black";
+	margin: 170px;
+}

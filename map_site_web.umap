@@ -1,0 +1,1470 @@
+{
+  "type": "umap",
+  "properties": {
+    "easing": true,
+    "embedControl": true,
+    "fullscreenControl": true,
+    "searchControl": true,
+    "datalayersControl": true,
+    "zoomControl": true,
+    "slideshow": {},
+    "captionBar": false,
+    "limitBounds": {},
+    "tilelayer": {
+      "minZoom": 0,
+      "maxZoom": 18,
+      "attribution": "Tiles courtesy of [[https://www.jawg.io/|jawgmaps]] - Map data [[http://osm.org/copyright/|&copy; OpenStreetMap contributors]], under ODbL.",
+      "url_template": "https://tile.jawg.io/{z}/{x}/{y}.png?api-key=community",
+      "name": "OSM Street (jawgmaps)",
+      "tms": false
+    },
+    "licence": "",
+    "description": "",
+    "name": "Map Site web",
+    "displayPopupFooter": false,
+    "miniMap": false,
+    "moreControl": true,
+    "scaleControl": true,
+    "scrollWheelZoom": true,
+    "zoom": 6
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2,
+      51
+    ]
+  },
+  "layers": [
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "index": "Valmy",
+            "geo_point_2d": [
+              43.5588670035645,
+              1.400213003858112
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.400213003858112,
+              43.5588670035645
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "index": "Rangueil",
+            "geo_point_2d": [
+              43.57432899862974,
+              1.464363996656121
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.464363996656121,
+              43.57432899862974
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "index": "Ernest Renan",
+            "geo_point_2d": [
+              43.62823999978872,
+              1.444685997333048
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.444685997333048,
+              43.62823999978872
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "index": "Argoulets",
+            "geo_point_2d": [
+              43.61441200177159,
+              1.481651997767869
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.481651997767869,
+              43.61441200177159
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "index": "Ponts-Jumeaux (Bowl)",
+            "geo_point_2d": [
+              43.61123600149905,
+              1.41647800227461
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.41647800227461,
+              43.61123600149905
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "index": "La Terrasse",
+            "geo_point_2d": [
+              43.583759999368766,
+              1.483928996114934
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.483928996114934,
+              43.583759999368766
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "index": "Bowl château de l'Hers",
+            "geo_point_2d": [
+              43.59196872013501,
+              1.489626035959273
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.489626035959273,
+              43.59196872013501
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "index": "La Grande Plaine",
+            "geo_point_2d": [
+              43.58959199851142,
+              1.491275999329598
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.491275999329598,
+              43.58959199851142
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "index": "Saint Simon",
+            "geo_point_2d": [
+              43.56147700089778,
+              1.379501003893308
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.379501003893308,
+              43.56147700089778
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "index": "Pech David",
+            "geo_point_2d": [
+              43.55384000202013,
+              1.447861002128994
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.447861002128994,
+              43.55384000202013
+            ]
+          }
+        }
+      ],
+      "_storage": {
+        "displayOnLoad": true,
+        "browsable": true,
+        "name": "skate-parcs.geojson",
+        "remoteData": {},
+        "iconClass": "Drop",
+        "iconUrl": "/uploads/pictogram/star-24.png",
+        "color": "BlueViolet",
+        "popupTemplate": "Default",
+        "labelHover": true,
+        "id": 459118
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Argoulets - Pierre Cahuzac",
+            "rugby": "O",
+            "geo_point_2d": [
+              43.62090065508311,
+              1.478211159147239
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.478211159147239,
+              43.62090065508311
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Chateau de l'Hers",
+            "rugby": "N",
+            "geo_point_2d": [
+              43.592887813254386,
+              1.489827395601037
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.489827395601037,
+              43.592887813254386
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Les Pradettes",
+            "rugby": "O",
+            "geo_point_2d": [
+              43.57772657385518,
+              1.386307294899125
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.386307294899125,
+              43.57772657385518
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Marcel Cerdan",
+            "rugby": "N",
+            "geo_point_2d": [
+              43.587004056036555,
+              1.396806845191241
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.396806845191241,
+              43.587004056036555
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Montané",
+            "rugby": "N",
+            "geo_point_2d": [
+              43.59775900165062,
+              1.413805001399952
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.413805001399952,
+              43.59775900165062
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Cazals Lapujade",
+            "rugby": "N",
+            "geo_point_2d": [
+              43.63134048939048,
+              1.465299680596679
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.465299680596679,
+              43.63134048939048
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "N",
+            "index": "Alain Coulon",
+            "rugby": "O",
+            "geo_point_2d": [
+              43.59937767396867,
+              1.489227095720298
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.489227095720298,
+              43.59937767396867
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Complexe Sportif de Borderouge",
+            "rugby": "O",
+            "geo_point_2d": [
+              43.6360386168192,
+              1.45600646323429
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.45600646323429,
+              43.6360386168192
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Sergent Vigné",
+            "rugby": "N",
+            "geo_point_2d": [
+              43.59611659923239,
+              1.468990517891702
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.468990517891702,
+              43.59611659923239
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Toulouse Lautrec",
+            "rugby": "N",
+            "geo_point_2d": [
+              43.62828746740906,
+              1.441388973096166
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.441388973096166,
+              43.62828746740906
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Canto Laouzetto",
+            "rugby": "N",
+            "geo_point_2d": [
+              43.561821192252054,
+              1.392568203820057
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.392568203820057,
+              43.561821192252054
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Les Fontaines",
+            "rugby": "O",
+            "geo_point_2d": [
+              43.601387418732756,
+              1.42226792138381
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.42226792138381,
+              43.601387418732756
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Lardenne",
+            "rugby": "N",
+            "geo_point_2d": [
+              43.590776495833516,
+              1.38913638958955
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.38913638958955,
+              43.590776495833516
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Mirail",
+            "rugby": "N",
+            "geo_point_2d": [
+              43.58062201811091,
+              1.402162708675929
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.402162708675929,
+              43.58062201811091
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Vincent Serrer",
+            "rugby": "N",
+            "geo_point_2d": [
+              43.578771996905026,
+              1.407809998877571
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.407809998877571,
+              43.578771996905026
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Barran",
+            "rugby": "O",
+            "geo_point_2d": [
+              43.56305000277699,
+              1.447590003905253
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.447590003905253,
+              43.56305000277699
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Montaudran",
+            "rugby": "N",
+            "geo_point_2d": [
+              43.57434161833105,
+              1.485694568131681
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.485694568131681,
+              43.57434161833105
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Stadium",
+            "rugby": "O",
+            "geo_point_2d": [
+              43.58331229740796,
+              1.434114680484651
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.434114680484651,
+              43.58331229740796
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Amouroux",
+            "rugby": "N",
+            "geo_point_2d": [
+              43.62731200116321,
+              1.471484999943306
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.471484999943306,
+              43.62731200116321
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Arnauné",
+            "rugby": "O",
+            "geo_point_2d": [
+              43.625206838918295,
+              1.435431642813274
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.435431642813274,
+              43.625206838918295
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Grande Plaine",
+            "rugby": "N",
+            "geo_point_2d": [
+              43.58845931425576,
+              1.493137847076861
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.493137847076861,
+              43.58845931425576
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Georges Rigal",
+            "rugby": "O",
+            "geo_point_2d": [
+              43.64166383877955,
+              1.440932209969283
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.440932209969283,
+              43.64166383877955
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Violettes",
+            "rugby": "N",
+            "geo_point_2d": [
+              43.64238768410103,
+              1.443302255239432
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.443302255239432,
+              43.64238768410103
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Zac de l'Hers",
+            "rugby": "N",
+            "geo_point_2d": [
+              43.60164704244428,
+              1.486268377408632
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.486268377408632,
+              43.60164704244428
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "La Faourette - Michel Monneris",
+            "rugby": "N",
+            "geo_point_2d": [
+              43.57818599925978,
+              1.415671033147404
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.415671033147404,
+              43.57818599925978
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Les Merlettes",
+            "rugby": "N",
+            "geo_point_2d": [
+              43.573849998145796,
+              1.417309998775386
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.417309998775386,
+              43.573849998145796
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Sordelo",
+            "rugby": "O",
+            "geo_point_2d": [
+              43.553247872211266,
+              1.447023866434279
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.447023866434279,
+              43.553247872211266
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Corbarrieu",
+            "rugby": "O",
+            "geo_point_2d": [
+              43.579466996952306,
+              1.438228999473643
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.438228999473643,
+              43.579466996952306
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Argoulets",
+            "rugby": "N",
+            "geo_point_2d": [
+              43.61076925673673,
+              1.483160706263228
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.483160706263228,
+              43.61076925673673
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Gironis - Henri MACH",
+            "rugby": "O",
+            "geo_point_2d": [
+              43.56565004246574,
+              1.416025829584974
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.416025829584974,
+              43.56565004246574
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "La Saudrune",
+            "rugby": "N",
+            "geo_point_2d": [
+              43.542467836712056,
+              1.391978398153388
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.391978398153388,
+              43.542467836712056
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "N",
+            "index": "TOEC",
+            "rugby": "O",
+            "geo_point_2d": [
+              43.59778124484732,
+              1.400605450369834
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.400605450369834,
+              43.59778124484732
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Pouvourville",
+            "rugby": "N",
+            "geo_point_2d": [
+              43.550437471566866,
+              1.449642011006478
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.449642011006478,
+              43.550437471566866
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Rangueil",
+            "rugby": "N",
+            "geo_point_2d": [
+              43.5752445780605,
+              1.466178729047367
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.466178729047367,
+              43.5752445780605
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "N",
+            "index": "Sesquières athlétisme (Serge Levy)",
+            "rugby": "N",
+            "geo_point_2d": [
+              43.648807420815686,
+              1.41666852559866
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.41666852559866,
+              43.648807420815686
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Ponts-Jumeaux",
+            "rugby": "N",
+            "geo_point_2d": [
+              43.61503081987692,
+              1.417349747218298
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.417349747218298,
+              43.61503081987692
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Reynerie",
+            "rugby": "N",
+            "geo_point_2d": [
+              43.568185649419604,
+              1.40718494426872
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.40718494426872,
+              43.568185649419604
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "N",
+            "index": "Ernest Wallon",
+            "rugby": "O",
+            "geo_point_2d": [
+              43.62179029137992,
+              1.415562217433884
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.415562217433884,
+              43.62179029137992
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "CEAT",
+            "rugby": "N",
+            "geo_point_2d": [
+              43.61715912395202,
+              1.469890674978655
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.469890674978655,
+              43.61715912395202
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "La Mounède",
+            "rugby": "N",
+            "geo_point_2d": [
+              43.572205842085744,
+              1.377587815897219
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.377587815897219,
+              43.572205842085744
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "La Ramée",
+            "rugby": "N",
+            "geo_point_2d": [
+              43.5674475875404,
+              1.342310867954357
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.342310867954357,
+              43.5674475875404
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Marcel Sarcos",
+            "rugby": "N",
+            "geo_point_2d": [
+              43.56203400093099,
+              1.37987299775452
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.37987299775452,
+              43.56203400093099
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Parc des Sports (Brice Taton)",
+            "rugby": "N",
+            "geo_point_2d": [
+              43.58154100017721,
+              1.434842999591842
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.434842999591842,
+              43.58154100017721
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Struxiano",
+            "rugby": "O",
+            "geo_point_2d": [
+              43.57727945818505,
+              1.467839152125471
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.467839152125471,
+              43.57727945818505
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "N",
+            "index": "René Valmy",
+            "rugby": "N",
+            "geo_point_2d": [
+              43.55933799785898,
+              1.400555003005233
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.400555003005233,
+              43.55933799785898
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "N",
+            "index": "Jean Moulin",
+            "rugby": "N",
+            "geo_point_2d": [
+              43.57331412434044,
+              1.454634266337285
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.454634266337285,
+              43.57331412434044
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Sesquières",
+            "rugby": "N",
+            "geo_point_2d": [
+              43.65422136019977,
+              1.416642703397712
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.416642703397712,
+              43.65422136019977
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "foot": "O",
+            "index": "Daniel Faucher",
+            "rugby": "O",
+            "geo_point_2d": [
+              43.580769610077986,
+              1.431976267190261
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.431976267190261,
+              43.580769610077986
+            ]
+          }
+        }
+      ],
+      "_storage": {
+        "displayOnLoad": true,
+        "browsable": true,
+        "name": "stades.geojson",
+        "remoteData": {},
+        "iconUrl": "/uploads/pictogram/soccer-24.png",
+        "color": "DarkCyan",
+        "id": 459119
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "index": "Alban Minville",
+            "adresse": "63 allée de Bellefontaine 31100 TOULOUSE",
+            "telephone": "05 61 44 32 17 / 05 61 59 11 22",
+            "geo_point_2d": [
+              43.565661362495625,
+              1.399890301007126
+            ],
+            "accessibilite": "PMR",
+            "nom_complet": "PISCINE ALBAN MINVILLE",
+            "saison": "Piscine ouverte toute l'année"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.399890301007126,
+              43.565661362495625
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "index": "Ancely",
+            "adresse": "7 allée des Causses 31300 TOULOUSE",
+            "telephone": "05 61 49 92 91",
+            "geo_point_2d": [
+              43.619078555615985,
+              1.400967130914408
+            ],
+            "nom_complet": "PISCINE ANCELY",
+            "saison": "Piscine d'été"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.400967130914408,
+              43.619078555615985
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "index": "Papus",
+            "adresse": "64 allée de Guyenne 31100 TOULOUSE",
+            "telephone": "05 61 41 18 09",
+            "geo_point_2d": [
+              43.57462436514689,
+              1.417349234797011
+            ],
+            "accessibilite": "PMR",
+            "nom_complet": "PISCINE PAPUS",
+            "saison": "Piscine ouverte toute l'année"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.417349234797011,
+              43.57462436514689
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "index": "Bellevue",
+            "adresse": "86 chemin de la Salade Ponsan 31400 TOULOUSE",
+            "telephone": "05 61 52 93 53",
+            "geo_point_2d": [
+              43.567564936933756,
+              1.453020459853388
+            ],
+            "nom_complet": "PISCINE BELLEVUE",
+            "saison": "Piscine ouverte toute l'année"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.453020459853388,
+              43.567564936933756
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "index": "Pech David",
+            "adresse": "Chemin des côtes de Pech David 31400 TOULOUSE",
+            "telephone": "05 61 55 12 89",
+            "geo_point_2d": [
+              43.56559996448061,
+              1.446796233889903
+            ],
+            "accessibilite": "PMR",
+            "nom_complet": "PISCINE PECH DAVID",
+            "saison": "Piscine ouverte toute l'année"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.446796233889903,
+              43.56559996448061
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "index": "Jany",
+            "adresse": "chemin du Verdon 31500 Toulouse",
+            "telephone": "05 81 91 78 56",
+            "geo_point_2d": [
+              43.6236875592537,
+              1.478253064442596
+            ],
+            "accessibilite": "PMR",
+            "nom_complet": "PISICNE ALEX JANY",
+            "saison": "Piscine ouverte toute l'année"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.478253064442596,
+              43.6236875592537
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "index": "Léo Lagrange",
+            "adresse": "4 place Pierre-Paul Riquet 31000 TOULOUSE",
+            "telephone": "05 61 22 24 15",
+            "geo_point_2d": [
+              43.607341000663226,
+              1.454268113548051
+            ],
+            "accessibilite": "PMR",
+            "nom_complet": "PISCINE LEO LAGRANGE",
+            "saison": "Piscine ouverte de septembre à juin"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.454268113548051,
+              43.607341000663226
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "index": "Bellevue été",
+            "adresse": "86 chemin de la Salade Ponsan 31400 TOULOUSE",
+            "telephone": "05 61 52 93 53",
+            "geo_point_2d": [
+              43.568051781802204,
+              1.453773101838596
+            ],
+            "accessibilite": "PMR",
+            "nom_complet": "PISCINE ETE BELLEVUE",
+            "saison": "Piscine d'été"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.453773101838596,
+              43.568051781802204
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "index": "Chapou",
+            "adresse": "rue Saunière 31000 TOULOUSE",
+            "telephone": "05 61 21 93 87",
+            "geo_point_2d": [
+              43.60874834590179,
+              1.419433605406858
+            ],
+            "nom_complet": "PISCINE MUNICIPALE CHAPOU",
+            "saison": "Piscine d'été"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.419433605406858,
+              43.60874834590179
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "index": "Toulouse Lautrec",
+            "adresse": "26 impasse Barthe 31200 TOULOUSE",
+            "telephone": "05 61 13 33 17",
+            "geo_point_2d": [
+              43.6281131791203,
+              1.439086715995709
+            ],
+            "accessibilite": "PMR",
+            "nom_complet": "PISCINE TOULOUSE LAUTREC",
+            "saison": "Piscine ouverte toute l'année"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.439086715995709,
+              43.6281131791203
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "index": "Nakache été",
+            "adresse": "7 allée Gabriel Biénès 31400 TOULOUSE",
+            "telephone": "05 61 22 31 35 ou 05 61 22 30 14",
+            "geo_point_2d": [
+              43.58580123724416,
+              1.435443467585958
+            ],
+            "nom_complet": "PISCINE ETE PARC DES SPORTS",
+            "saison": "Piscine d'été"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.435443467585958,
+              43.58580123724416
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "index": "Jean Boiteux (complexe Job)",
+            "adresse": "105 route de Blagnac",
+            "telephone": "05 61 54 86 60",
+            "geo_point_2d": [
+              43.616149259678515,
+              1.407357838874756
+            ],
+            "accessibilite": "PMR",
+            "nom_complet": "PISCINE JEAN BOITEUX",
+            "saison": "Piscine ouverte toute l'année"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.407357838874756,
+              43.616149259678515
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "index": "Nakache",
+            "adresse": "7 allée Gabriel Biénès 31400 TOULOUSE",
+            "telephone": "05 61 22 31 35 ou 05 61 22 30 14",
+            "geo_point_2d": [
+              43.58527313175659,
+              1.435238371955208
+            ],
+            "nom_complet": "PISCINE NAKACHE",
+            "saison": "Piscine ouverte de septembre à juin"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.435238371955208,
+              43.58527313175659
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "index": "Castex",
+            "adresse": "7 allée Gabriel Biénès 31400 TOULOUSE",
+            "telephone": "05 61 22 31 35",
+            "geo_point_2d": [
+              43.58610918976892,
+              1.434369212723853
+            ],
+            "accessibilite": "PMR",
+            "nom_complet": "PISCINE SPORTIVE CASTEX",
+            "saison": "Piscine ouverte toute l'année"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.434369212723853,
+              43.58610918976892
+            ]
+          }
+        }
+      ],
+      "_storage": {
+        "displayOnLoad": true,
+        "browsable": true,
+        "name": "piscines.geojson",
+        "remoteData": {},
+        "iconUrl": "/uploads/pictogram/swimming-24-white.png",
+        "color": "YellowGreen",
+        "id": 459120
+      }
+    }
+  ]
+}
